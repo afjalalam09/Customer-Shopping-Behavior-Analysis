@@ -39,7 +39,7 @@ In the competitive retail landscape, understanding customer purchasing behavior 
 * `Dashboard/`: Contains the Power BI file (`.pbix`) and the final dashboard screenshot.
 
 ## 📈 Dashboard Preview
-![Customer Behavior Dashboard](Dashboard/dashboard_preview.png)
+![Customer Behavior Dashboard](Dashboard_and_Reports/dashboard_preview.png)
 
 ---
 *This project demonstrates a complete end-to-end data analytics pipeline, transforming raw data into strategic business intelligence.*
