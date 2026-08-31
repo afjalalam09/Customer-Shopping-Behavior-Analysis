@@ -1,5 +1,7 @@
 # 🛒 Customer Shopping Behavior Analysis
 
+🌐 **Live Interactive Web App:** [Click Here to View Dashboard](https://customer-shopping-behavior-analysis-cxckkhxv64jhnfbpuas3sx.streamlit.app/)
+
 ## 🎯 Business Problem Statement
 In the competitive retail landscape, understanding customer purchasing behavior is crucial for driving sales and fostering long-term loyalty. The objective of this project is to analyze customer demographic data, purchasing patterns, and subscription behaviors to provide actionable business insights. These insights aim to help stakeholders optimize targeted marketing campaigns, improve inventory management, and boost subscription conversion rates.
 
